@@ -53,4 +53,6 @@ npx hardhat run --network ropsten launch/deploy.js
 ```
 
 **Ropsten**
-    [0xdB873e8B6F7fbD87b112Ff5BFd2Cb6c7DC36065D](https://ropsten.etherscan.io/address/0xdB873e8B6F7fbD87b112Ff5BFd2Cb6c7DC36065D)
+    [0x08Ed2beD63A7a127d95F3Da455e79674553d90bD](https://ropsten.etherscan.io/address/0xdB873e8B6F7fbD87b112Ff5BFd2Cb6c7DC36065D)
+**Airdrop: subgraph**
+   [Aidrop Subgraph](https://thegraph.com/explorer/subgraph/developerfred/airdrop-graph?selected=playground)
